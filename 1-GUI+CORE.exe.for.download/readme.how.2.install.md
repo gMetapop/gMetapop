@@ -29,10 +29,6 @@ c) Then click on "File/Default plot" in the Menu.
 
 In case of installation problems, in particular for gMetapop_GUI under some Linux OS, please contact Frédéric Raspail (frederic.raspail@inrae.fr) or Pauline Garnier-Géré (pauline.garnier-gere@inrae.fr). If needed, we can also provide \*.exe files for a 32-bit Windows OS. 
 
-* Connecting the last version of the User Manual to the GUI: 
+* Connecting the most recent version of the User Manual to the GUI: 
 
-a) The last updated version of the User Manual is available **<A HREF="https://github.com/gMetapop/gMetapop/tree/master/3-User.Manual-ver.1.0.0"> here</A>**
-
-b) The first complete version of the User Manual will be distributed with the release 1.0.0 of the program is identified by its date and version on the first page. 
-
-c) In case of a separate update of the User Manual from that of the GUI, it will be included in the current distributed files with changes described here. Just copy the new version in the *.exe* folder to access the new version from the GUI.  
+If an updated version of the User Manual is produced (check the date), it is available **<A HREF="https://github.com/gMetapop/gMetapop/tree/master/3-User.Manual-ver.1.0.0"> here</A>**. You just need to replace the previous version (located in the program *.exe* folder) by this one to access it from the GUI. 
