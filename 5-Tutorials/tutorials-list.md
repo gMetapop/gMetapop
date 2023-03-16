@@ -1,5 +1,5 @@
 ## List of tutorials 
-(described in details in Chapter 5 of the <A HREF="https://github.com/gMetapop/gMetapop/tree/master/3-User.Manual">User Manual</A>)
+(described in details in Chapter 5 of the <A HREF="https://github.com/gMetapop/gMetapop/tree/master/3-User.Manual-ver.1.0.0">User Manual</A>)
 
 5.1 Tests 1 : DRIFT 
 
