@@ -8,11 +8,11 @@ Individuals are characterized by their genotype at many loci and/or by their phe
 
 One main advantage of this tool is its flexible Graphical User Interface (GUI), available under Windows and Linux OS (see Download below). The GUI aims at replacing the cumbersome process of 1) building the large (or many) configuration parameter files which are needed for even relatively simple evolutionary scenarios, and of 2) creating the correct formats for various input data files needed for starting simulations. The users can therefore focus on their biological model. Thanks to the GUI, the simulator can also serve as a great learning/teaching tool for understanding evolutionary processes and their interactions.
 
-Two main components constitute the program:  
+There are two main components in the program:  
 
-•	gMetapop_GUI, the interface program which guides the user for designing simulations, launching them, and getting results graphical overview. Technically, the GUI creates a .xml parameter configuration file (*param* hereafter) with all initial settings and files needed for a simulation run.
+•	gMetapop_GUI, the interface program which guides the user choosing parameter values and designing simulations, launching them, and getting summary statistics and a graphical overview of some results. Technically, the GUI creates an .xml parameter configuration file (*param* hereafter). This file includes all initial settings and files needed for a simulation run.
 
-•	gMetapop_CORE, the program that takes these files as input to perform the simulations. gMetapop_CORE can be launched directly from the GUI or using command lines under Linux or Windows DOS command prompt. gMetapop_CORE initially stemmed from previous programs that included separate and complementary features (Le Corre et al., 1997; Austerlitz et al. 2000; Machon et al., 2003; Austerlitz & Garnier-Géré 2003; Le Corre and Kremer, 2003). However in this first release, 88% of the whole program code is new (70%) or has been largely modified or extended (18%). 
+•	gMetapop_CORE, the program that uses these files as input to perform simulations. gMetapop_CORE can be launched directly from the GUI or using command lines under Linux or Windows DOS command prompt. gMetapop_CORE initially stemmed from previous programs that included separate and complementary features (Le Corre et al., 1997; Austerlitz et al. 2000; Machon et al., 2003; Austerlitz & Garnier-Géré 2003; Le Corre and Kremer, 2003). However in this first release, 72% of the whole program code is new, and 18% of the original code has been largely modified or extended. 
 
 ## Download Section 
 
