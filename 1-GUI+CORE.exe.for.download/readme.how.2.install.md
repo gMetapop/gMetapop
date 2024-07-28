@@ -1,5 +1,5 @@
 UPDATES
-22-11-09 --> The first release v1.0.0 will be uploaded soon
+The first release v1.0.0 will be uploaded soon
 
 INSTALLATION INSTRUCTIONS
 
