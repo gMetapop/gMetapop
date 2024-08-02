@@ -10,6 +10,7 @@ NB1: **Plot.gM.perGen.zoom.R** is just an extension of the default plot script t
 NB2: The **customp.rscript.zip** includes all R scripts for custom plots that are used in the tutorials of Chapter 5 of the **<A HREF="https://github.com/gMetapop/gMetapop/tree/master/3-User.Manual-ver.1.0.0"> User Manual</A>**
 
 **UPDATE HISTORY** since the first release v1.0.0
+
 Most recent bug corrections or changes are explained at the start of the script
 the file customp.rscript.zip is in preparation
 
