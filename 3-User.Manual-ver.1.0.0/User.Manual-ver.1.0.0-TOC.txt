@@ -1,5 +1,5 @@
 UPDATES
-28/07/24 Tutorials 5.7 and 7.10 being prepared before uploading
+28/07/24 Tutorials "Getting started", 5.7 and 5.10.2 in preparation
 
 gMetapop USER MANUAL 
 version 1.0.0
