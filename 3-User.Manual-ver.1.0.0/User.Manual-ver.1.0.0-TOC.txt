@@ -21,8 +21,8 @@ CONTENTS
  2.2 gMetapop_CORE for Linux OS 
  2.3 Launching gMetapop_CORE simulations 
  2.4 How to get help?
- 2.5 Input and Output files
-3. CHAPTER 3 	Building the *.xml file with gMetapop_GUI and modelling demographic and selection processes
+ 2.5 Input and Output Files
+3. CHAPTER 3 	Building the *.xml file with gMetapop_GUI and modeling demographic and selection processes
  3.0 GUI File Menu
  3.1 Initial Settings
  3.2 Genome Tab
@@ -51,7 +51,7 @@ CONTENTS
   3.4.3 Hard or soft selection
   3.4.4 More information on selection processes
    3.4.4.1 Application of selection and building offspring genotypes
-   3.4.4.2 Fitness values and modelling optimizing selection
+   3.4.4.2 Fitness values and modeling optimizing selection
    3.4.4.3 Applying divergent selection among populations
  3.5 Demography Tab
   3.5.1 Population size parameters
@@ -134,7 +134,7 @@ CONTENTS
  5.9 Test 9 : Complex demography with overlapping generations: comparison with published results
   5.9.1 Preliminary runs
   5.9.2 Complete runs
- 5.10 Tests 10 : Complex demography: comparison of neutral and phenotypic selection scenarios with different life-cycles and variances in fecundities 
+ 5.10 Tests 10 : Complex demography: comparison of neutral and phenotypic selection scenarios with different life cycles and variances in fecundities 
   5.10.1 Different initial demographic conditions
   5.10.2 Overlapping versus non-overlapping generations and variances in fecundities
   5.10.3 Very large variance when generating the number of offspring
