@@ -21,7 +21,10 @@ which should launch the GUI application.
 
 * In case of installation problems, in particular for gMetapop_GUI under some Linux OS, please contact Frédéric Raspail (frederic.raspail@inrae.fr) or Pauline Garnier-Géré (pauline.garnier-gere@inrae.fr). If needed, we can also provide \*.exe files for older 32-bit Windows OS. 
 
-* Connecting the R software to the GUI, you need to: 
+* Connecting the R software to the GUI, you need to:
+
+FOR Linux64, the GUI should find R if it has been installed by default.
+
 FOR Win64:
 
 a) Click on "File/Choose R path" in the Menu, once only,
@@ -29,9 +32,6 @@ a) Click on "File/Choose R path" in the Menu, once only,
 b) Select the main folder where the last version of R has been installed (e.g. .../R-3.5.0 or later versions), 
 
 c) Then the "File/Default plot" or "File/Custom plot" menus will be active once a Working directory is selected in the "Run tab" of the GUI.
-
-
-FOR Linux64, the GUI should find R if it has been installed by default.
 
 * Connecting the most recent version of the User Manual to the GUI: 
 
