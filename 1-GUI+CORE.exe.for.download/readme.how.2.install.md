@@ -23,6 +23,7 @@ which should launch the GUI application.
 
 * Connecting the R software to the GUI, you need to: 
 FOR Win64:
+
 a) Click on "File/Choose R path" in the Menu, once only,
 
 b) Select the main folder where the last version of R has been installed (e.g. .../R-3.5.0 or later versions), 
