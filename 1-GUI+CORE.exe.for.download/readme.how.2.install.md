@@ -23,9 +23,12 @@ which should launch the GUI application.
 
 * Connecting the R software to the GUI, you need to: 
 FOR Win64:
-a) Click on "File/Choose R path" in the Menu, once only, 
+a) Click on "File/Choose R path" in the Menu, once only,
+
 b) Select the main folder where the last version of R has been installed (e.g. .../R-3.5.0 or later versions), 
+
 c) Then the "File/Default plot" or "File/Custom plot" menus will be active once a Working directory is selected in the "Run tab" of the GUI.
+
 
 FOR Linux64, the GUI should find R if it has been installed by default.
 
