@@ -21,7 +21,7 @@ which should launch the GUI application.
 
 * In case of installation problems, in particular for gMetapop_GUI under some Linux OS, please contact Frédéric Raspail (frederic.raspail@inrae.fr) or Pauline Garnier-Géré (pauline.garnier-gere@inrae.fr). If needed, we can also provide \*.exe files for older 32-bit Windows OS. 
 
-* Connecting the R software to the GUI, you need to:
+* The R software is needed to perform plots on results files from the GUI. For connecting R to the GUI, you need to:
 
 FOR Linux64, the GUI should find R if it has been installed by default.
 
