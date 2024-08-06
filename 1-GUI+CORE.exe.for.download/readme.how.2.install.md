@@ -35,4 +35,4 @@ c) Then the "File/Default plot" or "File/Custom plot" menus will be active once 
 
 * Connecting the most recent version of the User Manual to the GUI: 
 
-If an updated version of the User Manual is produced (see the date for update), it is available **<A HREF="https://github.com/gMetapop/gMetapop/tree/master/3-User.Manual-ver.1.0.0"> here</A>**. You just need to replace the previous *.pdf version (located in the program *.exe* folder) with this one to access it from the GUI. 
+If an updated version of the User Manual is available **<A HREF="https://github.com/gMetapop/gMetapop/tree/master/3-User.Manual-ver.1.0.0"> here</A>**, just replace the previous *.pdf version (located in the program *.exe* folder) with this one in order to access it from the GUI. 
